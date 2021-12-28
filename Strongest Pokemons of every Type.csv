@@ -1,0 +1,273 @@
+,0
+0,"Unnamed: 0                                         254
+Name                             SceptileMega Sceptile
+Type 1                                           Grass
+Type 2                                          Dragon
+Unnamed: 4                                         NaN
+HP                                                  70
+Attack                                             110
+Defense                                             75
+Sp. Atk                                            145
+Sp. Def                                             85
+Speed                                              145
+Generation                                           3
+Legendary                                        False
+Total stat                                         630
+Stronge Pokemon of every Type                      234
+Name: 275, dtype: object"
+1,"Unnamed: 0                                           376
+Name                             MetagrossMega Metagross
+Type 1                                             Steel
+Type 2                                           Psychic
+Unnamed: 4                                           NaN
+HP                                                    80
+Attack                                               145
+Defense                                              150
+Sp. Atk                                              105
+Sp. Def                                              110
+Speed                                                110
+Generation                                             3
+Legendary                                          False
+Total stat                                           700
+Stronge Pokemon of every Type                        234
+Name: 413, dtype: object"
+2,"Unnamed: 0                                         181
+Name                             AmpharosMega Ampharos
+Type 1                                        Electric
+Type 2                                          Dragon
+Unnamed: 4                                         NaN
+HP                                                  90
+Attack                                              95
+Defense                                            105
+Sp. Atk                                            165
+Sp. Def                                            110
+Speed                                               45
+Generation                                           2
+Legendary                                        False
+Total stat                                         610
+Stronge Pokemon of every Type                      234
+Name: 196, dtype: object"
+3,"Unnamed: 0                                       150
+Name                             MewtwoMega Mewtwo X
+Type 1                                       Psychic
+Type 2                                      Fighting
+Unnamed: 4                                       NaN
+HP                                               106
+Attack                                           190
+Defense                                          100
+Sp. Atk                                          154
+Sp. Def                                          100
+Speed                                            130
+Generation                                         1
+Legendary                                       True
+Total stat                                       780
+Stronge Pokemon of every Type                    234
+Name: 163, dtype: object"
+4,"Unnamed: 0                                       382
+Name                             KyogrePrimal Kyogre
+Type 1                                         Water
+Type 2                                           NaN
+Unnamed: 4                                       NaN
+HP                                               100
+Attack                                           150
+Defense                                           90
+Sp. Atk                                          180
+Sp. Def                                          160
+Speed                                             90
+Generation                                         3
+Legendary                                       True
+Total stat                                       770
+Stronge Pokemon of every Type                    234
+Name: 422, dtype: object"
+5,"Unnamed: 0                          169
+Name                             Crobat
+Type 1                           Poison
+Type 2                           Flying
+Unnamed: 4                          NaN
+HP                                   85
+Attack                               90
+Defense                              80
+Sp. Atk                              70
+Sp. Def                              80
+Speed                               130
+Generation                            2
+Legendary                         False
+Total stat                          535
+Stronge Pokemon of every Type       234
+Name: 183, dtype: object"
+6,"Unnamed: 0                          493
+Name                             Arceus
+Type 1                           Normal
+Type 2                              NaN
+Unnamed: 4                          NaN
+HP                                  120
+Attack                              120
+Defense                             120
+Sp. Atk                             120
+Sp. Def                             120
+Speed                               120
+Generation                            4
+Legendary                          True
+Total stat                          720
+Stronge Pokemon of every Type       234
+Name: 552, dtype: object"
+7,"Unnamed: 0                                           641
+Name                             TornadusIncarnate Forme
+Type 1                                            Flying
+Type 2                                               NaN
+Unnamed: 4                                           NaN
+HP                                                    79
+Attack                                               115
+Defense                                               70
+Sp. Atk                                              125
+Sp. Def                                               80
+Speed                                                111
+Generation                                             5
+Legendary                                           True
+Total stat                                           580
+Stronge Pokemon of every Type                        234
+Name: 702, dtype: object"
+8,"Unnamed: 0                           717
+Name                             Yveltal
+Type 1                              Dark
+Type 2                            Flying
+Unnamed: 4                           NaN
+HP                                   126
+Attack                               131
+Defense                               95
+Sp. Atk                              131
+Sp. Def                               98
+Speed                                 99
+Generation                             6
+Legendary                           True
+Total stat                           680
+Stronge Pokemon of every Type        234
+Name: 793, dtype: object"
+9,"Unnamed: 0                          250
+Name                              Ho-oh
+Type 1                             Fire
+Type 2                           Flying
+Unnamed: 4                          NaN
+HP                                  106
+Attack                              130
+Defense                              90
+Sp. Atk                             110
+Sp. Def                             154
+Speed                                90
+Generation                            2
+Legendary                          True
+Total stat                          680
+Stronge Pokemon of every Type       234
+Name: 270, dtype: object"
+10,"Unnamed: 0                                           214
+Name                             HeracrossMega Heracross
+Type 1                                               Bug
+Type 2                                          Fighting
+Unnamed: 4                                           NaN
+HP                                                    80
+Attack                                               185
+Defense                                              115
+Sp. Atk                                               40
+Sp. Def                                              105
+Speed                                                 75
+Generation                                             2
+Legendary                                          False
+Total stat                                           600
+Stronge Pokemon of every Type                        234
+Name: 232, dtype: object"
+11,"Unnamed: 0                                         383
+Name                             GroudonPrimal Groudon
+Type 1                                          Ground
+Type 2                                            Fire
+Unnamed: 4                                         NaN
+HP                                                 100
+Attack                                             180
+Defense                                            160
+Sp. Atk                                            150
+Sp. Def                                             90
+Speed                                               90
+Generation                                           3
+Legendary                                         True
+Total stat                                         770
+Stronge Pokemon of every Type                      234
+Name: 424, dtype: object"
+12,"Unnamed: 0                                       719
+Name                             DiancieMega Diancie
+Type 1                                          Rock
+Type 2                                         Fairy
+Unnamed: 4                                       NaN
+HP                                                50
+Attack                                           160
+Defense                                          110
+Sp. Atk                                          160
+Sp. Def                                          110
+Speed                                            110
+Generation                                         6
+Legendary                                       True
+Total stat                                       700
+Stronge Pokemon of every Type                    234
+Name: 796, dtype: object"
+13,"Unnamed: 0                          378
+Name                             Regice
+Type 1                              Ice
+Type 2                              NaN
+Unnamed: 4                          NaN
+HP                                   80
+Attack                               50
+Defense                             100
+Sp. Atk                             100
+Sp. Def                             200
+Speed                                50
+Generation                            3
+Legendary                          True
+Total stat                          580
+Stronge Pokemon of every Type       234
+Name: 415, dtype: object"
+14,"Unnamed: 0                           716
+Name                             Xerneas
+Type 1                             Fairy
+Type 2                               NaN
+Unnamed: 4                           NaN
+HP                                   126
+Attack                               131
+Defense                               95
+Sp. Atk                              131
+Sp. Def                               98
+Speed                                 99
+Generation                             6
+Legendary                           True
+Total stat                           680
+Stronge Pokemon of every Type        234
+Name: 792, dtype: object"
+15,"Unnamed: 0                                        487
+Name                             GiratinaOrigin Forme
+Type 1                                          Ghost
+Type 2                                         Dragon
+Unnamed: 4                                        NaN
+HP                                                150
+Attack                                            120
+Defense                                           100
+Sp. Atk                                           120
+Sp. Def                                           100
+Speed                                              90
+Generation                                          4
+Legendary                                        True
+Total stat                                        680
+Stronge Pokemon of every Type                     234
+Name: 545, dtype: object"
+16,"Unnamed: 0                                         384
+Name                             RayquazaMega Rayquaza
+Type 1                                          Dragon
+Type 2                                          Flying
+Unnamed: 4                                         NaN
+HP                                                 105
+Attack                                             180
+Defense                                            100
+Sp. Atk                                            180
+Sp. Def                                            100
+Speed                                              115
+Generation                                           3
+Legendary                                         True
+Total stat                                         780
+Stronge Pokemon of every Type                      234
+Name: 426, dtype: object"
